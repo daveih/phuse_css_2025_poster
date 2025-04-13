@@ -1,2 +1,5 @@
-# phuse_css_25_poster
-A poster developed for the 2025 PHUSE CSS Meeting
+# A New World Paper
+## Purpose
+A small repo holding the New World discussion paper
+## Licence
+Please note the licence file.
